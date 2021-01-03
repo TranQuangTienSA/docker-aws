@@ -9,6 +9,8 @@ Docker pull
 docker pull sohoa/docker-aws
 ```
 
+Apps version:
+
 ```sh
 / # docker -v
 Docker version 19.03.14, build 5eb3275
